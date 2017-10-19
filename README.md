@@ -1,7 +1,7 @@
-## gsv2pv
+# gsv2pv
 A deep learning pipeline for estimating pedestrian volume with google street views. For getting GSV images, use [streetscape](https://github.com/yonghah/streetscape)
 
-# Set up
+## Set up
 
 ### 1. Clone repository
 ```
